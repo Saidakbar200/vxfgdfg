@@ -5,6 +5,8 @@ from django.shortcuts import render
 def home(malumot):
     return render(malumot,'asosiy2.html')
 
+def home(malumot):
+    return render(malumot,'asosiy2.html')
 """
 +-*/
 
